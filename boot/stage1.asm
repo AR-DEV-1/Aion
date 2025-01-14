@@ -1,3 +1,8 @@
+; Stage 1
+; Version 1
+; Author = AR-DEV-1
+; This is licensed under GPL 3.0
+
 BITS 16
 ORG 0x7C00
 
